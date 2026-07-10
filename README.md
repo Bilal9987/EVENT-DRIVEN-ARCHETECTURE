@@ -1,3 +1,4 @@
+![archetecture diagrame](https://github.com/user-attachments/assets/2a6c405c-f417-4192-85b4-cd68ddb7d0f4)
 Event-Driven Data Pipeline (Lambda → S3 → Snowflake)
 
 This is a small data engineering project I built to understand how event-driven pipelines actually work in practice  not just in theory. It takes data, drops it into a data lake, and pushes it through a proper RAW → STAGE → FINAL flow inside Snowflake.
